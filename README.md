@@ -1,2 +1,0 @@
-# YTinfoAPI
-Created with CodeSandbox
